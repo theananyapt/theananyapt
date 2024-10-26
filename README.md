@@ -1,5 +1,3 @@
-# Ananya Prakash Thakur
-
 ## 👋 About Me
 
 I'm Ananya Prakash Thakur, a passionate and analytical **Business Analyst** with expertise in transforming complex data into actionable insights to drive strategic business decisions. My vision is to make data-driven solutions accessible and impactful for everyone. I thrive in roles that challenge me to leverage data, streamline processes, and deliver long-term value to organizations. Currently based in Southampton, UK, and open to relocation for exciting opportunities.
