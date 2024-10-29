@@ -1,4 +1,5 @@
-👋 Hi, I’m Ananya! I'm a technical professional with a master’s in Business Analytics, passionate about bridging the gap between technology and business. I’m skilled in databases, data analysis, and data visualization, with a curious mind and a knack for quick learning. I’m eager to connect, collaborate, and grow my expertise through new opportunities and challenges. Let’s build something impactful together!
+## 👋 About Me
+Hi, I’m Ananya! I'm a technical professional with a master’s in Business Analytics, passionate about bridging the gap between technology and business. I’m skilled in databases, data analysis, and data visualization, with a curious mind and a knack for quick learning. I’m eager to connect, collaborate, and grow my expertise through new opportunities and challenges. Let’s build something impactful together!
 
 ## 🎓 Education
 - **MSc in Business Analytics and Management Science**  
