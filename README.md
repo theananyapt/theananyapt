@@ -16,7 +16,7 @@ Hi, I’m Ananya! I'm a technical professional with a master’s in Business Ana
 - **Interpersonal:** Technical documentation, storytelling, time management, collaborative problem-solving, quick learner.
 
 ## 🏆 Achievements
-- **Shell Student Innovation Challenge** – Winner!!!
+- **Shell Student Innovation Challenge** 
 - **Google Data Analytics Certificate** 
 - **Azure Fundamentals (Microsoft)** 
 
