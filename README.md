@@ -29,7 +29,6 @@ Feel free to connect with me for collaborations, opportunities, or to discuss al
 
 <p align="center">
   
-Visitor count
-![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
+Visitor count: ![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
 
 </p>
