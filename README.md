@@ -1,4 +1,4 @@
-Hey there! My name is Ananya and welcome to my profile 😄
+### Hey there! My name is Ananya and welcome to my profile 😄###
 
 ## 👋 About Me
 I'm a data detective, always eager to dive into new datasets, solve puzzles, and uncover the truth. With a keen eye for detail and a love for problem-solving, I'm passionate about using data to drive informed decisions. I'm a quick learner with a constant hunger for knowledge, always seeking opportunities to expand my skillset. When I'm not immersed in data, you can find me on the tennis court, playing games, or simply relaxing with a good show. These hobbies help me recharge and rejuvenate myself. I'm currently seeking opportunities in the data and business analytics field to apply my skills and contribute to innovative solutions.
