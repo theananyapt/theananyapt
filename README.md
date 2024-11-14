@@ -1,9 +1,12 @@
+Hey there! My name is Ananya and welcome to my profile 😄
+
 ## 👋 About Me
-Hi, I’m Ananya! I'm a technical professional with a master’s in Business Analytics, passionate about bridging the gap between technology and business. I’m skilled in databases, data analysis, and data visualization, with a curious mind and a knack for quick learning. I’m eager to connect, collaborate, and grow my expertise through new opportunities and challenges. Let’s build something impactful together!
+I'm a data detective, always eager to dive into new datasets, solve puzzles, and uncover the truth. With a keen eye for detail and a love for problem-solving, I'm passionate about using data to drive informed decisions. I'm a quick learner with a constant hunger for knowledge, always seeking opportunities to expand my skillset. When I'm not immersed in data, you can find me on the tennis court, playing games, or simply relaxing with a good show. These hobbies help me recharge and rejuvenate myself. I'm currently seeking opportunities in the data and business analytics field to apply my skills and contribute to innovative solutions.
 
 ## 🎓 Education
 - **MSc in Business Analytics and Management Science**  
   University of Southampton, UK | Sep'23-Sep'24
+  
 - **B.Tech in Computer Science Engineering**  
   SRM Institute of Science and Technology, India | Jun'17-Jun'21
 
@@ -14,11 +17,6 @@ Hi, I’m Ananya! I'm a technical professional with a master’s in Business Ana
 ## 💡 Skills
 - **Technical:** SQL, Python, Tableau, Power BI, , Excel, Database Administration.
 - **Interpersonal:** Technical documentation, storytelling, time management, collaborative problem-solving, quick learner.
-
-## 🏆 Achievements
-- **Shell Student Innovation Challenge** 
-- **Google Data Analytics Certificate** 
-- **Azure Fundamentals (Microsoft)** 
 
 ## 📫 Contact
 - **Email:** theananyapt@gmail.com
