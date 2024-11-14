@@ -27,5 +27,5 @@ Hi, I’m Ananya! I'm a technical professional with a master’s in Business Ana
 
 Feel free to connect with me for collaborations, opportunities, or to discuss all things data and analytics!
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
 
