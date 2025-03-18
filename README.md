@@ -26,3 +26,4 @@ I'm a data detective, always eager to dive into new datasets, solve puzzles, and
 Feel free to connect with me for collaborations, opportunities, or to discuss all things data and analytics!
 
 Visitor count: ![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
+Hackerrank visitors: ![Visitor Count](https://www.hackerrank.com/profile/RA1711003011075)
