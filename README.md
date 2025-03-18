@@ -1,4 +1,4 @@
-[My HackerRank](https://www.hackerrank.com/your_hackerrank_username)
+[My HackerRank](https://www.hackerrank.com/profile/RA1711003011075)
 
 ### Hey there! My name is Ananya and welcome to my profile 😄
 
@@ -29,5 +29,5 @@ Feel free to connect with me for collaborations, opportunities, or to discuss al
 
 Visitor count: ![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
 
-[Check Out My HackerRank Profile](https://www.hackerrank.com/your_hackerrank_username)
+[Check Out My HackerRank Profile](https://www.hackerrank.com/profile/RA1711003011075)
 
