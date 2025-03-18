@@ -1,4 +1,4 @@
-[My HackerRank Profile](https://www.hackerrank.com/your_hackerrank_username)
+[My HackerRank](https://www.hackerrank.com/your_hackerrank_username)
 
 ### Hey there! My name is Ananya and welcome to my profile 😄
 
