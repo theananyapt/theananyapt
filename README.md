@@ -1,4 +1,5 @@
 [My HackerRank](https://www.hackerrank.com/profile/RA1711003011075)
+[My Tableau portfolio](https://public.tableau.com/app/profile/ananya.prakash.thakur/vizzes)
 
 ### Hey there! My name is Ananya and welcome to my profile 😄
 
@@ -27,7 +28,10 @@ I'm a data detective, always eager to dive into new datasets, solve puzzles, and
 
 Feel free to connect with me for collaborations, opportunities, or to discuss all things data and analytics!
 
+Also check out:
+[My HackerRank](https://www.hackerrank.com/profile/RA1711003011075)
+[My Tableau portfolio](https://public.tableau.com/app/profile/ananya.prakash.thakur/vizzes)
+
 Visitor count: ![Visitor Count](https://profile-counter.glitch.me/{theananyapt}/count.svg)
 
-[Check Out My HackerRank Profile](https://www.hackerrank.com/profile/RA1711003011075)
 
